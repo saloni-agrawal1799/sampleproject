@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("Sample git push");
 
-
+        System.out.println("Push 02");
     }
 }
